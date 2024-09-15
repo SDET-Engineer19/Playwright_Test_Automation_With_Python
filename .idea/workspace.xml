@@ -5,39 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35f60d54-5d22-484c-bd6a-ea3c21421096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Playwright_Test_Automation_FrameWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/part1_creating_strings_concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/part2_accessing_indexing_string_concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/part3_operators_on_strings_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/part4_functions_in_strings_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays_development_Practice/basic_concept_of_ArrayMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays_development_Practice/basic_concept_of_Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_collections_concepts/data_collection_dictionary_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_collections_concepts/data_collection_list_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_collections_concepts/data_collection_set_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_collections_concepts/data_collection_tuples_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part1_data_types_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part2_variables_dynamic_type_binding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part3_keywords_identifers_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/example_for_class_object_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/magic_methods_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_aggregation_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_concept_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_concept_encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_inheritance_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_inheritance_with_multiple_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_pass_by_reference_concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_poly_method_overloading_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_super_keyword_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept_Practice/oops_super_keyword_concept_part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playwright_test_automation_nop_ecommerce/launchBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_program_using_python/generateRandonNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_program_using_python/getStringValueFromAlphaNumeric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built_in_functions/part1_built_in_function_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built_in_functions/part2_built_in_modules_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part10_Bitwise_Operator_Concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part11_operators_assignment_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part12_operators_identity_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part13_operators_membership_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part14_conditional_statements_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part15_control_flow_for_loop_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part15_control_flow_while_loop_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part16_break_continue_pass_keyword_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part4_taking_input_from_user_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part5_type_conversion_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part6_literals_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part7_operators_arithmetic_operators_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part8_operators_comparison_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part9_operators_logical_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_deep_dive_concepts/part1_deep_aliasing_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_deep_dive_concepts/part2_deep_reference_counting_concept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/part1_creating_strings_concepts.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_type_strings_concepts/part1_creating_strings_concepts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/part2_accessing_indexing_string_concepts.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_type_strings_concepts/part2_accessing_indexing_string_concepts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/part3_operators_on_strings_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_type_strings_concepts/part3_operators_on_strings_concept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/part4_functions_in_strings_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_type_strings_concepts/part4_functions_in_strings_concept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_collections_concepts/data_collection_dictionary_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_collections_concepts/data_collection_dictionary_concept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part3_keywords_identifers_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_controlflow_conditional_statements/part3_keywords_identifers_concept.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +62,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for launchBrowser.test_launchChromeBrowser.executor": "Run",
+    "Python tests.Python tests for launchBrowser.test_launchChromiumBrowser.executor": "Run",
     "Python tests.Python tests in launchBrowser.py.executor": "Run",
     "Python.basic_concept_of_ArrayMethods.executor": "Run",
     "Python.basic_concept_of_Arrays.executor": "Run",
@@ -79,6 +74,8 @@
     "Python.data_collection_tuples_concept.executor": "Run",
     "Python.example_for_class_object_functions.executor": "Run",
     "Python.fractions_with_oops.executor": "Run",
+    "Python.generateRandonNumber.executor": "Run",
+    "Python.getStringValueFromAlphaNumeric.executor": "Run",
     "Python.launchBrowser.executor": "Run",
     "Python.magic_methods.executor": "Run",
     "Python.oops_aggregation_concept.executor": "Run",
@@ -91,15 +88,34 @@
     "Python.oops_poly_method_overloading_concept.executor": "Run",
     "Python.oops_super_keyword_concept.executor": "Run",
     "Python.oops_super_keyword_concept_part2.executor": "Run",
+    "Python.part10_Bitwise_Operator_Concept.executor": "Run",
+    "Python.part11_operators_assignment_concept.executor": "Run",
+    "Python.part12_operators_identity_concept.executor": "Run",
+    "Python.part13_operators_membership_concept.executor": "Run",
+    "Python.part14_conditional_statements_concept.executor": "Run",
+    "Python.part15_control_flow_for_loop_concept.executor": "Run",
+    "Python.part15_control_flow_while_loop_concept.executor": "Run",
+    "Python.part16_break_continue_pass_keyword_concept.executor": "Run",
+    "Python.part1_built_in_function_concept.executor": "Run",
     "Python.part1_data_types_concept.executor": "Run",
+    "Python.part1_deep_aliasing_concept.executor": "Run",
     "Python.part1_strings_concepts.executor": "Run",
     "Python.part2_accessing_indexing_string_concepts.executor": "Run",
+    "Python.part2_built_in_modules_concept.executor": "Run",
+    "Python.part2_deep_reference_counting_concept.executor": "Run",
     "Python.part2_variables_dynamic_type_binding.executor": "Run",
     "Python.part3_keywords_identifers_concept.executor": "Run",
     "Python.part3_operators_on_strings_concept.executor": "Run",
     "Python.part4_functions_in_strings_concept.executor": "Run",
+    "Python.part4_taking_input_from_user_concept.executor": "Run",
+    "Python.part5_type_conversion_concept.executor": "Run",
+    "Python.part6_literals_concept.executor": "Run",
+    "Python.part7_operators_arithmetic_operators_concept.executor": "Run",
+    "Python.part8_operators_comparator_concepts.executor": "Run",
+    "Python.part9_operator_logical_concept.executor": "Run",
+    "Python.python_mutating_concept.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -148,28 +164,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="launchBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Playwright_Test_Automation_FrameWork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlaywrightAutomation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlaywrightAutomation/launchBrowser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="part2_accessing_indexing_string_concepts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Playwright_Test_Automation_FrameWork" />
       <option name="ENV_FILES" value="" />
@@ -192,6 +186,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for launchBrowser.test_launchChromiumBrowser" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Playwright_Test_Automation_FrameWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_test_automation_nop_ecommerce" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;launchBrowser.test_launchChromiumBrowser&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for playwright_test_automation_nop_ecommerce.launchBrowser" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Playwright_Test_Automation_FrameWork" />
       <option name="ENV_FILES" value="" />
@@ -209,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for launchBrowser.test_launchChromiumBrowser" />
         <item itemvalue="Python.part2_accessing_indexing_string_concepts" />
         <item itemvalue="Python.example_for_class_object_functions" />
         <item itemvalue="Python.basic_concept_of_Arrays" />
         <item itemvalue="Python tests.Python tests for playwright_test_automation_nop_ecommerce.launchBrowser" />
-        <item itemvalue="Python.launchBrowser" />
       </list>
     </recent_temporary>
   </component>

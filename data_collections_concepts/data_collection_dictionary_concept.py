@@ -4,7 +4,7 @@
 # 4. Keys should be unique
 
 # Mutable : List/Set/Dictionary
-# Immutable: tuples/int/Strings/float/Boolean/Complex
+# Immutable: tuples/int/data_type_strings_concepts/float/Boolean/Complex
 
 # 1.  Create
 # 2.  Access

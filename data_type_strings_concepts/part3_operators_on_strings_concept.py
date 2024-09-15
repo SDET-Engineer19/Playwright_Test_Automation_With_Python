@@ -14,7 +14,7 @@ if "Hyderabad" > "Lingampally":
 else:
     print("False")
 
-# Operators on Strings
+# Operators on data_type_strings_concepts
 print("" or "world")  # 0 or 1 :  1
 print("hello" or "")  # 1 or 0:  1
 print("hello" or "world")  # 1 or 1 :  1
@@ -25,9 +25,9 @@ print("" and "world")  # 0 and 1 : 0
 print("hello" and "world")  # 1 and 1 : 1
 print("" and "")  # 0 and 0 : 0
 
-# Non-Empty Strings are False
+# Non-Empty data_type_strings_concepts are False
 print(not "hello")
 print(not "False")
 print(not "True")  # False
-# Empty Strings are True
+# Empty data_type_strings_concepts are True
 print(not "")  # True
