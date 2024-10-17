@@ -1,4 +1,3 @@
-
 class Atm:
 
     def __init__(self):
@@ -27,7 +26,7 @@ class Atm:
         elif user_input == "4":
             self.check_balance()
         elif user_input == "5":
-           self.exit()
+            self.exit()
 
     def create_pin(self):
         self.pin = input("Enter your pin: ")

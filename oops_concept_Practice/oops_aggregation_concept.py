@@ -5,9 +5,11 @@ class Customer:
         self.gender = gender
         self.address = address
 
-    def edit_profile(self, new_name,new_city, new_pincode, new_state):
+    def edit_profile(self, new_name, new_city, new_pincode, new_state):
         self.name = new_name
-        self.address.change_address(new_city,new_pincode,new_state)
+        self.address.change_address(new_city, new_pincode, new_state)
+
+
 # if you want to change the name, pass the value while creating object
 # if user don't want to change the name, pass it in edit_prfoile method as new_name=self.name
 
@@ -25,7 +27,7 @@ class Address:
 
 add = Address("Hyderabad", 500019, "TG")
 cust = Customer("Kabira", "Male", add)
-cust.edit_profile("Tom","KPHB",182937,"AP")
+cust.edit_profile("Tom", "KPHB", 182937, "AP")
 print(cust)
 print(cust.name)
 print(cust.gender)
