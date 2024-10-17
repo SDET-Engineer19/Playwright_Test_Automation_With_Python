@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35f60d54-5d22-484c-bd6a-ea3c21421096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_Iterators_concept/python_iterators_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_function_types_concept/part1_function_default_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_function_types_concept/part2_function_positional_argument_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_function_types_concept/part3_function_keyword_concept.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Playwright_Test_Automation_FrameWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Playwright_Test_Automation_FrameWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/pytest_playwright_fixture_concept_one_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part1_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part2_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_program_using_python/getStringValueFromAlphaNumeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_program_using_python/getStringValueFromAlphaNumeric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_deep_dive_concepts/part3_deep_mutability_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_deep_dive_concepts/part3_deep_mutability_concept.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,75 +44,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for launchBrowser.test_launchChromeBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for launchBrowser.test_launchChromiumBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in launchBrowser.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basic_concept_of_ArrayMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basic_concept_of_Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.concept_of_arrayOne.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_collection_dictionary_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_collection_list_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_collection_set_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_collection_tuples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_collection_tuples_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_for_class_object_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fractions_with_oops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generateRandonNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.getStringValueFromAlphaNumeric.executor&quot;: &quot;Run&quot;,
-    &quot;Python.launchBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.magic_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_aggregation_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_concept_class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_concept_encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_inheritance_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_inheritance_with_multiple_classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_pass_by_reference_concepts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_pass_reference_concepts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_poly_method_overloading_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_super_keyword_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_super_keyword_concept_part2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part10_Bitwise_Operator_Concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part11_operators_assignment_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part12_operators_identity_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part13_operators_membership_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part14_conditional_statements_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part15_control_flow_for_loop_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part15_control_flow_while_loop_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part16_break_continue_pass_keyword_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part1_built_in_function_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part1_data_types_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part1_deep_aliasing_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part1_function_default_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part1_strings_concepts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part2_accessing_indexing_string_concepts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part2_built_in_modules_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part2_deep_reference_counting_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part2_function_positional_argument_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part2_variables_dynamic_type_binding.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part3_deep_mutability_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part3_function_keyword_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part3_keywords_identifers_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part3_operators_on_strings_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part4_functions_in_strings_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part4_taking_input_from_user_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part5_type_conversion_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part6_literals_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part7_operators_arithmetic_operators_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part8_operators_comparator_concepts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.part9_operator_logical_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_iterators_concept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_mutating_concept.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/digvijay/styraProjects/Playwright_Test_Automation_With_Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for launchBrowser.test_launchChromeBrowser.executor": "Run",
+    "Python tests.Python tests for launchBrowser.test_launchChromiumBrowser.executor": "Run",
+    "Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_initialization.executor": "Run",
+    "Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username.executor": "Run",
+    "Python tests.Python tests in launchBrowser.py.executor": "Run",
+    "Python tests.Python tests in pytest_basic_concepts_part1.py.executor": "Run",
+    "Python tests.Python tests in pytest_basic_concepts_part2_test.py.executor": "Run",
+    "Python tests.Python tests in pytest_playwright_fixture_concept_one_test.py.executor": "Run",
+    "Python.basic_concept_of_ArrayMethods.executor": "Run",
+    "Python.basic_concept_of_Arrays.executor": "Run",
+    "Python.concept_of_arrayOne.executor": "Run",
+    "Python.data_collection_dictionary_concept.executor": "Run",
+    "Python.data_collection_list_concept.executor": "Run",
+    "Python.data_collection_set_concept.executor": "Run",
+    "Python.data_collection_tuples.executor": "Run",
+    "Python.data_collection_tuples_concept.executor": "Run",
+    "Python.example_for_class_object_functions.executor": "Run",
+    "Python.fractions_with_oops.executor": "Run",
+    "Python.generateRandonNumber.executor": "Run",
+    "Python.getStringValueFromAlphaNumeric.executor": "Run",
+    "Python.launchBrowser.executor": "Run",
+    "Python.magic_methods.executor": "Run",
+    "Python.oops_aggregation_concept.executor": "Run",
+    "Python.oops_concept_class.executor": "Run",
+    "Python.oops_concept_encapsulation.executor": "Run",
+    "Python.oops_inheritance_concept.executor": "Run",
+    "Python.oops_inheritance_with_multiple_classes.executor": "Run",
+    "Python.oops_pass_by_reference_concepts.executor": "Run",
+    "Python.oops_pass_reference_concepts.executor": "Run",
+    "Python.oops_poly_method_overloading_concept.executor": "Run",
+    "Python.oops_super_keyword_concept.executor": "Run",
+    "Python.oops_super_keyword_concept_part2.executor": "Run",
+    "Python.part10_Bitwise_Operator_Concept.executor": "Run",
+    "Python.part11_operators_assignment_concept.executor": "Run",
+    "Python.part12_operators_identity_concept.executor": "Run",
+    "Python.part13_operators_membership_concept.executor": "Run",
+    "Python.part14_conditional_statements_concept.executor": "Run",
+    "Python.part15_control_flow_for_loop_concept.executor": "Run",
+    "Python.part15_control_flow_while_loop_concept.executor": "Run",
+    "Python.part16_break_continue_pass_keyword_concept.executor": "Run",
+    "Python.part1_built_in_function_concept.executor": "Run",
+    "Python.part1_data_types_concept.executor": "Run",
+    "Python.part1_deep_aliasing_concept.executor": "Run",
+    "Python.part1_function_default_concept.executor": "Run",
+    "Python.part1_strings_concepts.executor": "Run",
+    "Python.part2_accessing_indexing_string_concepts.executor": "Run",
+    "Python.part2_built_in_modules_concept.executor": "Run",
+    "Python.part2_deep_reference_counting_concept.executor": "Run",
+    "Python.part2_function_positional_argument_concept.executor": "Run",
+    "Python.part2_variables_dynamic_type_binding.executor": "Run",
+    "Python.part3_deep_mutability_concept.executor": "Run",
+    "Python.part3_function_keyword_concept.executor": "Run",
+    "Python.part3_keywords_identifers_concept.executor": "Run",
+    "Python.part3_operators_on_strings_concept.executor": "Run",
+    "Python.part4_functions_in_strings_concept.executor": "Run",
+    "Python.part4_taking_input_from_user_concept.executor": "Run",
+    "Python.part5_type_conversion_concept.executor": "Run",
+    "Python.part6_literals_concept.executor": "Run",
+    "Python.part7_operators_arithmetic_operators_concept.executor": "Run",
+    "Python.part8_operators_comparator_concepts.executor": "Run",
+    "Python.part9_operator_logical_concept.executor": "Run",
+    "Python.python_iterators_concept.executor": "Run",
+    "Python.python_mutating_concept.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/digvijay/styraProjects/Playwright_Test_Automation_With_Python",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Python.basic_concept_of_Arrays">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username">
+    <configuration default="true" type="OPA_RUN_CONFIGURATION" factoryName="Opa configuration factory">
+      <option name="query" value="" />
+      <option name="additionalargs" value="" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="basic_concept_of_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Playwright_Test_Automation_FrameWork" />
       <option name="ENV_FILES" value="" />
@@ -127,50 +143,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrays_development_Practice/basic_concept_of_Arrays.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="example_for_class_object_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Playwright_Test_Automation_FrameWork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops_concept_Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops_concept_Practice/example_for_class_object_functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="part2_accessing_indexing_string_concepts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Playwright_Test_Automation_FrameWork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/part2_accessing_indexing_string_concepts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,28 +166,58 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for playwright_test_automation_nop_ecommerce.launchBrowser" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for pytest_playwright_fixture_concept_one_test.test_initialization" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Playwright_Test_Automation_FrameWork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_test_automation_nop_ecommerce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;playwright_test_automation_nop_ecommerce.launchBrowser&quot;" />
+      <option name="_new_target" value="&quot;pytest_playwright_fixture_concept_one_test.test_initialization&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Playwright_Test_Automation_FrameWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pytest_playwright_fixture_concept_one_test.test_validate_username&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in pytest_basic_concepts_part1_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Playwright_Test_Automation_FrameWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part1_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username" />
+        <item itemvalue="Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_initialization" />
+        <item itemvalue="Python tests.Python tests in pytest_basic_concepts_part1_test.py" />
         <item itemvalue="Python.basic_concept_of_Arrays" />
         <item itemvalue="Python tests.Python tests for launchBrowser.test_launchChromiumBrowser" />
-        <item itemvalue="Python.part2_accessing_indexing_string_concepts" />
-        <item itemvalue="Python.example_for_class_object_functions" />
-        <item itemvalue="Python tests.Python tests for playwright_test_automation_nop_ecommerce.launchBrowser" />
       </list>
     </recent_temporary>
   </component>

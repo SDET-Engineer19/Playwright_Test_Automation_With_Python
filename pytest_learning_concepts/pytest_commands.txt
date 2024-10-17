@@ -1,0 +1,7 @@
+py.test : will execute all the test cases where file name should start or end with test
+
+pytest.mark.login : will execute the test cases which has keyword "login"
+
+pip install pytest-xdist for executing in parallel mode
+ command is pytest /path -n no.of instances
+                           pytest /path -n 4
