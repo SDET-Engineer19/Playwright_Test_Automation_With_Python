@@ -7,7 +7,6 @@ print(a)
 print(b)
 print(c)
 
-
 print("####################")
 
 # verify the id of a,b,c : should be same

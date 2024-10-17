@@ -18,7 +18,6 @@ print(id(val2))  # new memory is created
 val2 = val2 + (400, 300, 200, 100)
 print(id(val2))  # another new memory allocation is created with new values
 
-
 # 1. Mutable example:
 l1 = [65, 66, 67]
 print("Before Appending")
@@ -43,7 +42,6 @@ l2 = l1[:]  # cloning :
 print(id(l2))
 print(id(l1))
 
-
 print("*******************************")
 
 t1 = (1, 2, 3)
@@ -60,9 +58,8 @@ t4 = (100, 200, 300, 400)
 print(id(t4))
 print(t4)
 
-
 # t4[4] = 600
-print(t4)   
+print(t4)
 
 ## t4[4] = 600
 print("After changing the tuple index value")

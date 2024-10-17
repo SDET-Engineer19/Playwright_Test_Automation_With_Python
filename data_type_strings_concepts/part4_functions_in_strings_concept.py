@@ -27,8 +27,6 @@ print(city.index("it"))  # prints the character index position
 # print(city.index("wasd")) # throws an error substring not found
 
 
-
-
 print(city.startswith("ahd"))  # False
 print(city.startswith("Hyd"))  # True
 print(city.endswith("addkey"))  # False
@@ -44,5 +42,5 @@ print(city.isupper())  # False
 
 print(city.replace("Hyderabad", "Jaipur"))
 print("   Hi My Name Is Kabira                ".strip())  # removes the Trailing and Leading Spaces
-print("               Hi My Name Is Kabira".lstrip())   # removes the Trailing Spaces
-print("Hi My Name Is Kabira                                     ".lstrip())    # removes the Leading Spaces
+print("               Hi My Name Is Kabira".lstrip())  # removes the Trailing Spaces
+print("Hi My Name Is Kabira                                     ".lstrip())  # removes the Leading Spaces

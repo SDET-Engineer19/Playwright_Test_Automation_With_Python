@@ -22,9 +22,9 @@ print(round(c, 1))  # gets the value with decimal
 
 print(divmod(12, 23))  # returns the tuple 12//23 , 12 %23
 
-print(oct(9)) # Octal Number
-print(hex(8)) #  Hexa Number
+print(oct(9))  # Octal Number
+print(hex(8))  # Hexa Number
 
 print(id([1, 2, 3]))  # get the address from any data type
 
-print(sum([10,20,30,40,50])) # sum of all the digits from list,tuple or sets
+print(sum([10, 20, 30, 40, 50]))  # sum of all the digits from list,tuple or sets
