@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35f60d54-5d22-484c-bd6a-ea3c21421096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/pytest_playwright_fixture_concept_one_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_commands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part1_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part2_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_API_Automation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_API_Automation/get_platzi_api_response_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/test_markers_fixture_with_playwright_part3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/test_parallel_execution_playwright_part4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/test_scope_fixture_with_playwright_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_framework_concepts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_framework_concepts/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_framework_concepts/test_validate_page_details.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Playwright_Test_Automation_FrameWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Playwright_Test_Automation_FrameWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/pytest_playwright_fixture_concept_one_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/test_scope_fixture_with_playwright_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_learning_concepts/pytest_commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_commands.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part1_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/test_fixtures_classes_pytest_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part2_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/test_fixtures_classes_pytest_part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +40,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -46,14 +57,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for get_platzi_api_response_details.test_get_platzi_api_details.executor": "Run",
     "Python tests.Python tests for launchBrowser.test_launchChromeBrowser.executor": "Run",
     "Python tests.Python tests for launchBrowser.test_launchChromiumBrowser.executor": "Run",
     "Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_initialization.executor": "Run",
+    "Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_validate_password.executor": "Run",
     "Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username.executor": "Run",
+    "Python tests.Python tests for test_validate_page_details.test_verify_login_button_isVisible.executor": "Debug",
+    "Python tests.Python tests for test_validate_page_details.test_verify_login_page_details.executor": "Run",
     "Python tests.Python tests in launchBrowser.py.executor": "Run",
     "Python tests.Python tests in pytest_basic_concepts_part1.py.executor": "Run",
     "Python tests.Python tests in pytest_basic_concepts_part2_test.py.executor": "Run",
     "Python tests.Python tests in pytest_playwright_fixture_concept_one_test.py.executor": "Run",
+    "Python tests.Python tests in test_fixtures_classes_pytest_part3.py.executor": "Run",
+    "Python tests.Python tests in test_markers_fixture_with_playwright_part3.py.executor": "Run",
+    "Python tests.Python tests in test_scope_fixture_with_playwright_part1.py.executor": "Run",
+    "Python tests.Python tests in test_validate_page_details.py.executor": "Run",
     "Python.basic_concept_of_ArrayMethods.executor": "Run",
     "Python.basic_concept_of_Arrays.executor": "Run",
     "Python.concept_of_arrayOne.executor": "Run",
@@ -114,7 +133,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/digvijay/styraProjects/Playwright_Test_Automation_With_Python",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -122,81 +141,44 @@
       <recent name="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username">
+  <component name="RunManager" selected="Python tests.Python tests for test_validate_page_details.test_verify_login_button_isVisible">
     <configuration default="true" type="OPA_RUN_CONFIGURATION" factoryName="Opa configuration factory">
       <option name="query" value="" />
       <option name="additionalargs" value="" />
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="basic_concept_of_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Playwright_Test_Automation_FrameWork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrays_development_Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrays_development_Practice/basic_concept_of_Arrays.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for launchBrowser.test_launchChromiumBrowser" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_validate_page_details.test_verify_login_button_isVisible" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Playwright_Test_Automation_FrameWork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_test_automation_nop_ecommerce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_framework_concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;launchBrowser.test_launchChromiumBrowser&quot;" />
+      <option name="_new_target" value="&quot;test_validate_page_details.test_verify_login_button_isVisible&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for pytest_playwright_fixture_concept_one_test.test_initialization" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_validate_page_details.test_verify_login_page_details" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Playwright_Test_Automation_FrameWork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_framework_concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;pytest_playwright_fixture_concept_one_test.test_initialization&quot;" />
+      <option name="_new_target" value="&quot;test_validate_page_details.test_verify_login_page_details&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Playwright_Test_Automation_FrameWork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;pytest_playwright_fixture_concept_one_test.test_validate_username&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in pytest_basic_concepts_part1_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_fixtures_classes_pytest_part3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Playwright_Test_Automation_FrameWork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,17 +189,47 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/pytest_basic_concepts_part1_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_learning_concepts/pytest_tutorials/test_fixtures_classes_pytest_part3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_markers_fixture_with_playwright_part3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Playwright_Test_Automation_FrameWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_concepts/test_markers_fixture_with_playwright_part3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_validate_page_details.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Playwright_Test_Automation_FrameWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_framework_concepts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_learning_concepts/playwright_pytest_framework_concepts/test_validate_page_details.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_validate_username" />
-        <item itemvalue="Python tests.Python tests for pytest_playwright_fixture_concept_one_test.test_initialization" />
-        <item itemvalue="Python tests.Python tests in pytest_basic_concepts_part1_test.py" />
-        <item itemvalue="Python.basic_concept_of_Arrays" />
-        <item itemvalue="Python tests.Python tests for launchBrowser.test_launchChromiumBrowser" />
+        <item itemvalue="Python tests.Python tests for test_validate_page_details.test_verify_login_button_isVisible" />
+        <item itemvalue="Python tests.Python tests for test_validate_page_details.test_verify_login_page_details" />
+        <item itemvalue="Python tests.Python tests in test_validate_page_details.py" />
+        <item itemvalue="Python tests.Python tests in test_markers_fixture_with_playwright_part3.py" />
+        <item itemvalue="Python tests.Python tests in test_fixtures_classes_pytest_part3.py" />
       </list>
     </recent_temporary>
   </component>
@@ -238,5 +250,16 @@
       <updated>1725857656945</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

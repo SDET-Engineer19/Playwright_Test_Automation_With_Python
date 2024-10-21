@@ -5,3 +5,10 @@ pytest.mark.login : will execute the test cases which has keyword "login"
 pip install pytest-xdist for executing in parallel mode
  command is pytest /path -n no.of instances
                            pytest /path -n 4
+
+
+to execute from terminal or ci-cd pipeline, below are the commands
+pytest --headed --browser webkit --browser=chromium
+
+
+pytest --base-url=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login --browser=firefox --headed --screenshot=on --output=test-result --slowmo=1000
